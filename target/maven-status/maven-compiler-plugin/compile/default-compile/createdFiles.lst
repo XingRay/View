@@ -1,0 +1,6 @@
+com\xingray\view\View.class
+com\xingray\view\Canvas.class
+com\xingray\view\Color.class
+com\xingray\view\Paint.class
+module-info.class
+com\xingray\view\Drawable.class
